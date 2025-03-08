@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lukas</h1>
 <h3 align="center">Passionate in Web, Data and general IT</h3>
 
-- 🔭 I’m currently working on my [stock_manager](https://github.com/mrkillertoast/stock_manager)
+- 🔭 I’m currently working on my [Personal Website]([https://github.com/mrkillertoast/stock_manager](https://github.com/mrkillertoast/personal-website))
 
 - 🌱 I’m currently learning **Data Engineering @BFH in Switzerland**
 
